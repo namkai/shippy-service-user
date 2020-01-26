@@ -2,7 +2,7 @@ package main
 
 import (
 	"golang.org/x/net/context"
-	pb "github.com/namkai/shippy-user-service/proto/user"
+	pb "github.com/namkai/shippy-service-user/proto/user"
 )
 
 type service struct {

@@ -1,7 +1,7 @@
 package main
 
 import (
-	pb "github.com/namkai/shippy-user-service/proto/user"
+	pb "github.com/namkai/shippy-service-user/proto/user"
 	"github.com/jinzhu/gorm"
 )
 
